@@ -1,0 +1,29 @@
+body {
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+header {
+    background:linear-gradient(0deg,rgb(80, 0, 0),rgb(232, 0, 0));
+    color:white;
+    font-size:30px;
+    text-align:center;
+    position:fixed;
+    top:0;
+    width:100%;
+    font-family: 'Rock Salt', cursive;
+}
+
+h1 {
+    margin:0;
+}
+
+#board {
+    background:linear-gradient(0deg,darkred,rgb(80, 0, 0));
+    position:fixed;
+    top:143px;
+    height:100%;
+    width:100%;
+}
+
