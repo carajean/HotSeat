@@ -1,3 +1,7 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import {Component} from 'react';
+
 let oldNames = ['Riley', 'Roo'];
 let pastNames = [];
 
